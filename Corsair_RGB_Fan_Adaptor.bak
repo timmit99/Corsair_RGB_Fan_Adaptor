@@ -176,4 +176,8 @@ Text Label 4750 3050 0    50   ~ 0
 F5
 Text Label 5250 3050 0    50   ~ 0
 F6
+Text Label 2650 2850 0    50   ~ 0
+Gnd
+Text Label 2650 3150 0    50   ~ 0
+5V
 $EndSCHEMATC

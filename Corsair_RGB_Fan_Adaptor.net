@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:\\Users\\Timothy Abraham\\Documents\\GitHub\\Corsair_RGB_Fan_Adaptor\\Corsair_RGB_Fan_Adaptor.sch")
-    (date "4/20/2019 23:44:06")
+    (date "4/23/2019 11:50:43")
     (tool "Eeschema (5.0.0)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
