@@ -181,4 +181,23 @@ Text Label 2650 2850 0    50   ~ 0
 Gnd
 Text Label 2650 3150 0    50   ~ 0
 5V
+$Comp
+L Device:CP C1
+U 1 1 5CC45ED5
+P 2450 3850
+F 0 "C1" H 2568 3896 50  0000 L CNN
+F 1 "CP" H 2568 3805 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" H 2488 3700 50  0001 C CNN
+F 3 "~" H 2450 3850 50  0001 C CNN
+	1    2450 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2300 4000 2450 4000
+Wire Wire Line
+	2450 3700 2300 3700
+Text Label 2300 3700 0    50   ~ 0
+Gnd
+Text Label 2300 4000 0    50   ~ 0
+5V
 $EndSCHEMATC

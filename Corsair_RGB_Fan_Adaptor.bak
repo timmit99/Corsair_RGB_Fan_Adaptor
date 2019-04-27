@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Corsair_RGB_Fan_Adaptor-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -46,7 +47,7 @@ F 3 "~" H 4000 2950 50  0001 C CNN
 	1    4000 2950
 	1    0    0    -1  
 $EndComp
-Text Notes 3800 2450 2    50   ~ 0
+Text Notes 4200 2400 2    50   ~ 0
 Ground\nData TO Fan\nData FROM fan\n+5V
 Wire Wire Line
 	3200 3050 3350 3050
