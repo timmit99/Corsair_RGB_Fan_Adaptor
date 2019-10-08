@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:Corsair_RGB_Fan_Adaptor-cache
-EELAYER 30 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -21,8 +21,7 @@ P 3000 2950
 F 0 "J2" H 3106 3228 50  0000 C CNN
 F 1 "Fan1" H 3106 3137 50  0000 C CNN
 F 2 "TRA_KiCad_Footprints:70553-000" H 3000 2950 50  0001 C CNN
-F 3 "https://www.molex.com/pdm_docs/sd/705530002_sd.pdf" H 3000 2950 50  0001 C CNN
-F 4 "70553-0003" H 3000 2950 50  0001 C CNN "Part Number"
+F 3 "~" H 3000 2950 50  0001 C CNN
 	1    3000 2950
 	1    0    0    -1  
 $EndComp
